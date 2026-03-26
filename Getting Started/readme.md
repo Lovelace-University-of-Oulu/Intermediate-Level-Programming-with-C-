@@ -8,4 +8,18 @@
 
 ##### Lectures
 - Lectures will be held in-class according to the schedule. Lecture recordings and slides from previous years are available ahead of time. If necessary, this year's lecture recordings will also be uploaded.
+##### Course Work
+  - Machine Problems (MPs): Three individual exercises, totaling 25 points.
+  - Lab Exercises: Seven exercises, which can be completed in groups, totaling 45 points.
+  - Final Exam: 30 points.
+##### Passing Criteria and Grading Breakdown
+- You need to accumulate more than 65 points to pass the course.
+Final Grade Scale:
+5: For scores greater than 95 points.
+4: For scores greater than 90 points.
+3: For scores greater than 80 points.
+2: For scores greater than 70 points.
+1: For scores greater than 65 points.
+##### Late Submission Policy
+- If you submit after the deadline, 20% are automatically deducted for each assignment per day, no exceptions without official documents.
 
